@@ -16,6 +16,6 @@ po wykonaniu polecenia wyswietla nam sie wynik dzialania skryptu index.php
 
 Polecenie:
 ```
-curl localhot:6666/index.html
+curl localhost:6666/index.html
  ```
 wyświetla nam strone index.html
